@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 <br>I’m currently working on enhancing my skills in .NET Web API, React Native with Expo, and Flutter. I’m eager to collaborate on open-source projects involving Next.js, TypeORM, or mobile app development with React Native or Flutter. I’m also looking for help with mastering GoLang and exploring best practices in mobile and backend development. Feel free to ask me about developing scalable web applications with TypeScript, Node.js, and Express, implementing responsive designs, or optimizing database queries using PostgreSQL. Fun fact: I recently started playing chess to enhance my strategic thinking.
 
